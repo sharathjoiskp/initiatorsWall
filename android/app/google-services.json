@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45125965112",
+    "project_id": "initiator-83078",
+    "storage_bucket": "initiator-83078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45125965112:android:4b1e38f029da11eff79dcd",
+        "android_client_info": {
+          "package_name": "com.example.initiator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdPUBpFv2lsNNcJGtkyV_zGKxuFm4H08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
